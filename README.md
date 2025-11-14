@@ -37,3 +37,10 @@ https://medium.com/google-cloud/genaiops-operationalize-generative-ai-a-practica
 <img width="1297" height="752" alt="image" src="https://github.com/user-attachments/assets/aa1ae3c5-38a8-4aea-a5a2-1a7f0232078d" />
 
 <img width="822" height="416" alt="image" src="https://github.com/user-attachments/assets/a6cdbbdc-f5a3-4b47-9d12-0c4473b1869f" />
+
+GenAIOps end to end starter pack. → [https://goo.gle/e2e-gen-ai-app-starte... ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkZKb0Mzd21tQWRHSEx1b2t5X0JrN3JraTRCQXxBQ3Jtc0ttS2liRHlMZW5WbFloNjFQYUhhWk5XeDdQODdieGVod1oyR1JxMDlNek8tUGpZUkEzU014WUtxbkphUVdUM2xnMkxqdkgybFFxMXVxWnYtVUJ5ellLOTlsNTEwX3NJTVBMekhFcHBUM3NScWVZRTlYbw&q=https%3A%2F%2Fgoo.gle%2Fe2e-gen-ai-app-starter-pack&v=kJRgj58ujEk)
+Google ADK walkthrough: Your step by step development tutorial → [https://goo.gle/4kFyHbv  ](https://goo.gle/4kFyHbv )
+GenAI in production: MLOps or GenAIOps? →  https://goo.gle/42JLCSz 
+GenAIOps: Operationalize generative AI - A practical guide → https://goo.gle/4noMMLO 
+Taming the tool chaos: The generative AI aents & tool registry → https://goo.gle/4pG27sV
+Operationalizing Generative AI on Vertex AI using MLOps → https://goo.gle/3Kkhqax 
