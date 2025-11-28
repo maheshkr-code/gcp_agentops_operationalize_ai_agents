@@ -1,7 +1,7 @@
 # 
 hands_on: [https://codelabs.developers.google.com/bigquery-adk-eval?hl=en#1](https://codelabs.developers.google.com/bigquery-adk-eval?hl=en#0)
 
-'''
+'
 gcp command
 
 gcloud auth list
@@ -33,7 +33,7 @@ adk web
 python evaluate_agent.py
 
 bq rm -r $PROJECT_ID:ecommerce
-'''
+'
 
 
 
