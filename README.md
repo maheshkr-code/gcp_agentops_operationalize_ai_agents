@@ -1,3 +1,42 @@
+# 
+hands_on: [https://codelabs.developers.google.com/bigquery-adk-eval?hl=en#1](https://codelabs.developers.google.com/bigquery-adk-eval?hl=en#0)
+
+'''
+gcp command
+
+gcloud auth list
+
+gcloud config list project (if you unset)
+
+export PROJECT_ID=awesome_jasmine (project id copied from the console)
+gcloud config set project $PROJECT_ID
+
+gcloud config list project (to verify)
+
+gcloud services enable bigquery.googleapis.com \
+                       aiplatform.googleapis.com \
+                       cloudresourcemanager.googleapis.com
+
+mkdir bigquery-adk-codelab
+cd bigquery-adk-codelab
+
+python -m venv .venv
+
+source .venv/bin/activate
+
+pip install google-adk google-cloud-aiplatform[evaluation] pandas
+
+adk create data_agent_app
+
+adk web
+
+python evaluate_agent.py
+
+bq rm -r $PROJECT_ID:ecommerce
+'''
+
+
+
 # gcp_agentops_operationalize_ai_agents
 <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/c51fc561-ad4c-4ce9-83c4-91cb663b99ef" />
 
